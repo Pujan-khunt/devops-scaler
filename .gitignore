@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+*.log
+target/
+__pycache__/
+.tmp/
+
+# assignment source — kept locally, never published
+docs/
